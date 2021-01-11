@@ -1,6 +1,6 @@
 import React from "react";
-import home1 from "../img/home1.png";
-import { About, Description, Image, Hide } from "../styles";
+import home1 from "../../img/home1.png";
+import { About, Description, Image, Hide } from "../../styles";
 
 export default function AbouSection() {
   return (

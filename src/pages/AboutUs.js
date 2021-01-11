@@ -1,7 +1,7 @@
 import React from "react";
-import AboutSection from "../components/AboutSection";
-import ServicesSection from "../components/ServicesSection";
-import FaqSection from "../components/FaqSection";
+import AboutSection from "../components/AboutUsComponents/AboutSection";
+import ServicesSection from "../components/AboutUsComponents/ServicesSection";
+import FaqSection from "../components/AboutUsComponents/FaqSection";
 
 function AboutUs() {
   return (
